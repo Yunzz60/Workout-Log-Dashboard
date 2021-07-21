@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "workout-log-dashboard",
+  "private_key_id": "bbb2db7ba36ac0f1cb673877d74c78eb7a0f3dfc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCv43wbIUe+XYaU\nJU3KF9lAKXfoj/e5Gsmf5t5asDDd5D+89qdRJ0u+yX7BeCN+r2dwnZjk2+r4kAiY\nCUF/wH1W7RrEybIbrmppuIoZy67qFe+h31d6ztTw9y5B4rzg4s5IbIfZ6v4hUpRm\nV07quiKjjC5/WkkqmHQ7F12EfhlFsxU0h0bAj38YGV0LwoeoxYNkhO9h2zHY5UjV\n+zSyQV3RAxhGbNLp4fFT5S66lMVC+b9OoJK0ZySvgXqBOTijUwSwo84pqT6yt91W\nYvZRzoVoGPlqw9Se1mN1kAIeXqEL9VfIfXQSVEDKLbyNaBiziBAW5HS4p0UjrhMM\nfX2q6O7DAgMBAAECggEARnJ9vbwJqTR6d5GtY3lD2ZACZ9Jp7OjOws3MV1RkbitC\nYCQGhdmQW/0GWOUOimokqxVkLJ3ssdu2pXZnlox5ZzyWUSVbwfyMwIVaQtSy3S0m\nCpaSyixXW6AVFeyDrCsLZjSaAO0/FgemSotDn34n64t1ACsgTQA85YIJQczjwGc8\n0n0VFwhV8iIJJqqPukr5pZEjCsGYO4deao22AjbQ8sG+Y2xQP0GZXcoDjnEIymia\nVPl1Kth5MqxCg1BQTz/y49HJs0PoeCh4vcd6zuXqqVmJRTBzTjqH195wYzigdNJd\ncvff8r+xsY1SYccY1nid+jLPsHOAvwD7QGpKUXo0kQKBgQDaxpnh3CriPV5CBslM\nqKJ4FDVRmGTtpODhfVuCq/DSkUhuRvbb29eL/ZwOnLGW4tInv5+FxOxmANgVEAvt\nOhjPfY66wfjxgVBMTrCOjzvx3/Poauh8XyklK5Vh9qoTROAOo6tZgvhZSXnmsxj4\nNTGF9le5MvFVcu9c0zQ6H5OvaQKBgQDN0M+4eN1hmhR/GuaKVLI3FqoirdODOWoT\noRri/nSjJbi4youXEoxB5snZQjDwBZ2zTK/7+PPxH0C1Wb4laKjA/2zV89HufjzA\nv3JD9rkkmfYNVcgCi3ANyN6LgIiA98pGT/G5Fbxky0Cbc8sRk3VEH6oPZLcazWk0\n+fdN52nTSwKBgQDUUdf4Fcdcp7g5lgJ4rlR2+w2/8YlKBTDmRdWw3JOsl6jWtXJQ\nb2wiBXAV0kabq+fPAa6ckT/nwrvyvQ8GHNMFU9JYN3YVU62NUPUSdbn0hKdfEZot\nUeFJnKGuYEgwyTA1pOvfxDan2KJAneIGyQEWBLygFOuYRSI+UQ8ntYuLuQKBgBci\nvObot0IMdvdex8GPCcWFh7SEQ72Bi7oPJx2TKvtX9y7WneBqllemINSKS0P/7Z1F\nJpc1gf592+FG6Ef+PtILJGnckaG0kRG9s5OOPXuuzujq1qPqlrsF9HZMCYwtzpAe\n1nZOyjGuY2HWH2KnZ8wznwNB+A9MPeJVowYf2FaHAoGBALB3F7zoPDwCjDC5xdXN\ntzRuetUGlKKSITrK/2FICmPA124oMc5H6QlMV0ZyZX44Qw9Ebi/OcsXIQVOi/1iR\nzKI5kFe/fOmr7Rlo4dfknvT1rV4sbKrtfM/mKGDVQUzBDSZYCq0oqlWC8lVB6I91\nRkUO8QYnkOdU6h9vpm7J+XCh\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@workout-log-dashboard.iam.gserviceaccount.com",
+  "client_id": "105239216844806323038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40workout-log-dashboard.iam.gserviceaccount.com"
+}
